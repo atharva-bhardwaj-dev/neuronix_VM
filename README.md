@@ -1,2 +1,16 @@
 # neuronix_VM
-Simple VM is a basic stack-based virtual machine in Python that supports commands like PUSH, POP, and PRINT via an interactive REPL or .txt files. It teaches core VM concepts and is designed for beginners to learn and build on.
+
+A basic stack-based virtual machine written in Python.  
+Supports commands like PUSH, POP, and PRINT via an interactive REPL or by running instructions from `.txt` files.
+
+## Features
+
+- Stack-based architecture with basic commands
+- Interactive REPL for live command input
+- Run instruction scripts from `.txt` files
+
+## Usage
+
+Run the REPL:
+```bash
+python vm.py
